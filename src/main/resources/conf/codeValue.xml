@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIGS createTime="" updateTime="2009-06-19 11:22:37" >
+
+
+<DATA type="79010001" code="0" ><![CDATA[未开发]]></DATA>
+<DATA type="79010001" code="1" ><![CDATA[开发中]]></DATA>
+<DATA type="79010001" code="2" ><![CDATA[返工]]></DATA>
+<DATA type="79010001" code="3" ><![CDATA[提测]]></DATA>
+<DATA type="79010001" code="4" ><![CDATA[测试中]]></DATA>
+<DATA type="79010001" code="5" ><![CDATA[完成]]></DATA>
+
+
+<DATA type="79010002" code="1" ><![CDATA[低]]></DATA>
+<DATA type="79010002" code="2" ><![CDATA[中]]></DATA>
+<DATA type="79010002" code="3" ><![CDATA[高]]></DATA>
+
+
+
+<DATA type="79010003" code="1" ><![CDATA[立项]]></DATA>
+<DATA type="79010003" code="2" ><![CDATA[进行中]]></DATA>
+<DATA type="79010003" code="3" ><![CDATA[结束]]></DATA>
+
+
+<DATA type="79010004" code="0" ><![CDATA[不合格]]></DATA>
+<DATA type="79010004" code="1" ><![CDATA[合格]]></DATA>
+
+
+
+</CONFIGS>
